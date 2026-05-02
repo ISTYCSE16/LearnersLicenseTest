@@ -1,0 +1,2594 @@
+[
+  {
+    "number": 1,
+    "question": "Unless otherwise posted, what is the basic speed limit outside a city, town or village on a primary highway?",
+    "options": [
+      {
+        "label": "a",
+        "text": "100 km/h"
+      },
+      {
+        "label": "b",
+        "text": "90 km/h"
+      },
+      {
+        "label": "c",
+        "text": "110 km/h"
+      },
+      {
+        "label": "d",
+        "text": "80 km/h"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 2,
+    "question": "When backing a passenger vehicle to the left, a driver should:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Look in the inside rear-view mirror and make steering adjustments as necessary"
+      },
+      {
+        "label": "b",
+        "text": "Look over the right shoulder with occasional glances to the front"
+      },
+      {
+        "label": "c",
+        "text": "Look over the left shoulder with occasional glances to the front"
+      },
+      {
+        "label": "d",
+        "text": "Without shoulder checking, use the inside and outside rear-view mirrors to ensure the best view to the rear and both sides of the vehicle"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 3,
+    "question": "When approaching an intersection and facing a traffic control light that is showing a green right-turn arrow and a red light, a driver:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Must stop and wait for a green light before turning in the direction of the arrow"
+      },
+      {
+        "label": "b",
+        "text": "May go straight through the intersection without stopping"
+      },
+      {
+        "label": "c",
+        "text": "May proceed when safe, without stopping, in the direction of the arrow"
+      },
+      {
+        "label": "d",
+        "text": "May turn left without stopping"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 4,
+    "question": "Alberta has a demerit point system where a fully licenced (non-learner, non- probationary) driver is suspended when they accumulate:",
+    "options": [
+      {
+        "label": "a",
+        "text": "15 points"
+      },
+      {
+        "label": "b",
+        "text": "8 points"
+      },
+      {
+        "label": "c",
+        "text": "5 points"
+      },
+      {
+        "label": "d",
+        "text": "12 points"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 5,
+    "question": "When passing a large truck on a two-way highway, a driver should:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Leave extra room before returning to their lane"
+      },
+      {
+        "label": "b",
+        "text": "Return to their lane when signalled by the truck’s headlights"
+      },
+      {
+        "label": "c",
+        "text": "Return to their lane when the truck is no longer visible in any of their rear-view mirrors"
+      },
+      {
+        "label": "d",
+        "text": "Return to their lane once they have cleared the truck’s front bumper"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 6,
+    "question": "Which statement best describes the steps for turning right at a red traffic light?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Right turns on a red traffic light are never permitted"
+      },
+      {
+        "label": "b",
+        "text": "Signal and make sure there is no sign prohibiting the turn, stop, look left and right, yield the right-of-way, then proceed"
+      },
+      {
+        "label": "c",
+        "text": "Reduce speed before the turn, look right for cyclists, signal and proceed"
+      },
+      {
+        "label": "d",
+        "text": "Signal and reduce speed before the turn, look left, yield to vehicles and proceed"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 7,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Route for vehicles over 4500 kg."
+      },
+      {
+        "label": "b",
+        "text": "Route for slow moving vehicles"
+      },
+      {
+        "label": "c",
+        "text": "Reserved lane for buses"
+      },
+      {
+        "label": "d",
+        "text": "Dangerous goods route"
+      }
+    ],
+    "answer": "d",
+    "figure": "figures/q007.png"
+  },
+  {
+    "number": 8,
+    "question": "A single solid white line between driving lanes in an urban area means:",
+    "options": [
+      {
+        "label": "a",
+        "text": "It is a line separating traffic travelling in opposite directions"
+      },
+      {
+        "label": "b",
+        "text": "Traffic on the right is moving faster than traffic on the left"
+      },
+      {
+        "label": "c",
+        "text": "Lane changing is not permitted"
+      },
+      {
+        "label": "d",
+        "text": "Lane change is permitted"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 9,
+    "question": "A “parking lane” as defined in the Basic Licence Driver’s Handbook is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A lane closest to the curb, where parking is permitted but there are no meters"
+      },
+      {
+        "label": "b",
+        "text": "All of these responses are correct"
+      },
+      {
+        "label": "c",
+        "text": "That portion of a primary highway between the edge of the roadway to the right of the direction of traffic and the nearest solid white line, not being the centre line, marked on the roadway"
+      },
+      {
+        "label": "d",
+        "text": "A lane immediately beside a row of parking meters in an urban area"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 10,
+    "question": "Shoulder checking means:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Glancing towards the blind spot in the direction the driver intends to move"
+      },
+      {
+        "label": "b",
+        "text": "Glancing into the left outside mirror"
+      },
+      {
+        "label": "c",
+        "text": "Glancing into both the inside and outside mirrors"
+      },
+      {
+        "label": "d",
+        "text": "Glancing into the right outside mirror"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 11,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Off-road facilities ahead"
+      },
+      {
+        "label": "b",
+        "text": "Slippery when wet"
+      },
+      {
+        "label": "c",
+        "text": "Uneven pavement"
+      },
+      {
+        "label": "d",
+        "text": "Detour ahead"
+      }
+    ],
+    "answer": "c",
+    "figure": "figures/q011.png"
+  },
+  {
+    "number": 12,
+    "question": "A traffic-lane control light with an illuminated red “X” means:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Prepare for an emergency vehicle travelling in that lane"
+      },
+      {
+        "label": "b",
+        "text": "Reduce speed to below 30 km/h"
+      },
+      {
+        "label": "c",
+        "text": "Use that lane only for the purpose of making left turns"
+      },
+      {
+        "label": "d",
+        "text": "Travel is not permitted in that lane"
+      }
+    ],
+    "answer": "d",
+    "figure": "figures/q012.png"
+  },
+  {
+    "number": 13,
+    "question": "Does a parent have the right to withdraw a previously given “parental consent” for someone under 18 years of age with respect to an operator’s licence?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Yes, provided the person is still under the age of 18 and is not self-supporting or married"
+      },
+      {
+        "label": "b",
+        "text": "Yes, provided that both parents verbally agree to withdraw the consent at a registry office"
+      },
+      {
+        "label": "c",
+        "text": "No, once it is given it remains in effect until the person reaches 18 years of age"
+      },
+      {
+        "label": "d",
+        "text": "No, but another consent form must be signed by both parents after a licence suspension"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 14,
+    "question": "When approaching a Yield sign, you must:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Yield the right-of-way to traffic not facing the sign and all pedestrians in the intersection"
+      },
+      {
+        "label": "b",
+        "text": "Always sound the horn to warn other traffic within the intersection"
+      },
+      {
+        "label": "c",
+        "text": "Expect all other vehicles to yield the right-of-way to you"
+      },
+      {
+        "label": "d",
+        "text": "Come to a stop and proceed after looking to the right and left"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 15,
+    "question": "The term “over-driving” your headlights at night means:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The driver cannot see clearly for 1000 metres"
+      },
+      {
+        "label": "b",
+        "text": "The low beam headlights are not set properly"
+      },
+      {
+        "label": "c",
+        "text": "The driver is travelling at a speed which would not permit them to see an object in time to stop"
+      },
+      {
+        "label": "d",
+        "text": "The driver has had the headlights on for too long a time"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 16,
+    "question": "Under the Graduated Driver Licensing program, a driver will receive 2 demerits:",
+    "options": [
+      {
+        "label": "a",
+        "text": "For having more passengers than there are seat belts"
+      },
+      {
+        "label": "b",
+        "text": "For not wearing a seat belt securely fastened"
+      },
+      {
+        "label": "c",
+        "text": "For not wearing a seat belt"
+      },
+      {
+        "label": "d",
+        "text": "For not wearing a seat belt properly adjusted"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 17,
+    "question": "Using the 2-second rule to judge a safe following distance when driving:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Is more accurate on rural highways than in urban centres"
+      },
+      {
+        "label": "b",
+        "text": "Is not accurate at speeds greater than 100 km/h"
+      },
+      {
+        "label": "c",
+        "text": "Is accurate at any speed"
+      },
+      {
+        "label": "d",
+        "text": "Is not accurate at speeds lower than 30 km/h"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 18,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Traffic entering from the right"
+      },
+      {
+        "label": "b",
+        "text": "Winding road ahead"
+      },
+      {
+        "label": "c",
+        "text": "Curve right"
+      },
+      {
+        "label": "d",
+        "text": "Concealed intersection on the right"
+      }
+    ],
+    "answer": "c",
+    "figure": "figures/q018.png"
+  },
+  {
+    "number": 19,
+    "question": "A driver approaching a flashing red traffic light must:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Stop and wait for the flashing green light"
+      },
+      {
+        "label": "b",
+        "text": "Reduce speed and proceed with caution"
+      },
+      {
+        "label": "c",
+        "text": "Stop and proceed only when safe to do so"
+      },
+      {
+        "label": "d",
+        "text": "Stop until the signal light turns green"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 20,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Do not enter"
+      },
+      {
+        "label": "b",
+        "text": "Slow moving vehicles ahead"
+      },
+      {
+        "label": "c",
+        "text": "Warning, Yield sign ahead"
+      },
+      {
+        "label": "d",
+        "text": "Warning, traffic is approaching"
+      }
+    ],
+    "answer": "c",
+    "figure": "figures/q020.png"
+  },
+  {
+    "number": 21,
+    "question": "According to the law in Alberta, it is the driver’s responsibility to ensure that all passengers under what age are properly restrained in the vehicle?",
+    "options": [
+      {
+        "label": "a",
+        "text": "18 years"
+      },
+      {
+        "label": "b",
+        "text": "24 years"
+      },
+      {
+        "label": "c",
+        "text": "21 years"
+      },
+      {
+        "label": "d",
+        "text": "16 years"
+      }
+    ],
+    "answer": "d",
+    "figure": ""
+  },
+  {
+    "number": 22,
+    "question": "When parallel parking, the vehicle’s wheels closest to the curb must be within what maximum distance?",
+    "options": [
+      {
+        "label": "a",
+        "text": "80 centimetres from the curb"
+      },
+      {
+        "label": "b",
+        "text": "30 centimetres from the curb"
+      },
+      {
+        "label": "c",
+        "text": "10 centimetres from the curb"
+      },
+      {
+        "label": "d",
+        "text": "50 centimetres from the curb"
+      }
+    ],
+    "answer": "d",
+    "figure": ""
+  },
+  {
+    "number": 23,
+    "question": "Who is responsible and legally obligated to report any medical condition, change in health, or physical disability that may affect a driver’s ability to drive",
+    "options": [
+      {
+        "label": "a",
+        "text": "The driver’s employer"
+      },
+      {
+        "label": "b",
+        "text": "The driver"
+      },
+      {
+        "label": "c",
+        "text": "The driver’s doctor"
+      },
+      {
+        "label": "d",
+        "text": "The driver’s insurance company"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 24,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Road narrows, left"
+      },
+      {
+        "label": "b",
+        "text": "Two-way traffic"
+      },
+      {
+        "label": "c",
+        "text": "Divided highway ends"
+      },
+      {
+        "label": "d",
+        "text": "Obstruction – keep left"
+      }
+    ],
+    "answer": "a",
+    "figure": "figures/q024.png"
+  },
+  {
+    "number": 25,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Rumble strips"
+      },
+      {
+        "label": "b",
+        "text": "Construction zone"
+      },
+      {
+        "label": "c",
+        "text": "Bump"
+      },
+      {
+        "label": "d",
+        "text": "Pavement ends"
+      }
+    ],
+    "answer": "c",
+    "figure": "figures/q025.png"
+  },
+  {
+    "number": 26,
+    "question": "Under the Graduated Driver Licensing program, what is the minimum amount of time that a person must serve as a probationary Class 5 driver?",
+    "options": [
+      {
+        "label": "a",
+        "text": "6 months"
+      },
+      {
+        "label": "b",
+        "text": "18 months"
+      },
+      {
+        "label": "c",
+        "text": "2 years"
+      },
+      {
+        "label": "d",
+        "text": "1 year"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 27,
+    "question": "A large “X” painted on the pavement indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Construction ahead"
+      },
+      {
+        "label": "b",
+        "text": "The traffic lane is ending"
+      },
+      {
+        "label": "c",
+        "text": "Railway crossing ahead"
+      },
+      {
+        "label": "d",
+        "text": "Wild animal crossing ahead"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 28,
+    "question": "A driver is required to report all collisions to the police when persons have been injured or killed, or when combined damage to all vehicles or property is more than:",
+    "options": [
+      {
+        "label": "a",
+        "text": "$750"
+      },
+      {
+        "label": "b",
+        "text": "$1000"
+      },
+      {
+        "label": "c",
+        "text": "$250"
+      },
+      {
+        "label": "d",
+        "text": "$500"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 29,
+    "question": "When a driver is stopping behind another vehicle in traffic:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Remain a minimum of 10 metres from the vehicle ahead"
+      },
+      {
+        "label": "b",
+        "text": "Allow sufficient space to move into another lane without reversing"
+      },
+      {
+        "label": "c",
+        "text": "Maintain sufficient space as determined by the 2-second rule"
+      },
+      {
+        "label": "d",
+        "text": "Keep back approximately 1 metre from the rear bumper of the vehicle ahead"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 30,
+    "question": "If another vehicle is following too close, what should a driver do?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Slow down gradually and encourage the other vehicle to pass"
+      },
+      {
+        "label": "b",
+        "text": "Press hard on the brake pedal"
+      },
+      {
+        "label": "c",
+        "text": "Increase speed to 10 km/h above the posted speed limit"
+      },
+      {
+        "label": "d",
+        "text": "Activate the four-way flashers"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 31,
+    "question": "When recovering from a skid, a driver should:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Accelerate and steer in the opposite direction of the skid"
+      },
+      {
+        "label": "b",
+        "text": "Brake and counter-steer"
+      },
+      {
+        "label": "c",
+        "text": "Steer in the direction the driver wants the front of the vehicle to go"
+      },
+      {
+        "label": "d",
+        "text": "Brake and hold firmly on the steering wheel"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 32,
+    "question": "A “slow-moving vehicle” sign must be displayed on the rear of any vehicle that normally travels at speeds less than:",
+    "options": [
+      {
+        "label": "a",
+        "text": "50 km/h"
+      },
+      {
+        "label": "b",
+        "text": "40 km/h"
+      },
+      {
+        "label": "c",
+        "text": "70 km/h"
+      },
+      {
+        "label": "d",
+        "text": "60 km/h"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 33,
+    "question": "A driver attempting to turn left at a steady green traffic light:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Has the right-of-way over oncoming traffic"
+      },
+      {
+        "label": "b",
+        "text": "Must stop before the pedestrian crosswalk line, then proceed"
+      },
+      {
+        "label": "c",
+        "text": "Has the right-of-way over pedestrians"
+      },
+      {
+        "label": "d",
+        "text": "Must not cross the path of an approaching vehicle unless it is safe"
+      }
+    ],
+    "answer": "d",
+    "figure": ""
+  },
+  {
+    "number": 34,
+    "question": "A “Weave Zone” is best described as:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A place on a highway where the entrance and exit lanes are close together, and vehicles that are slowing to exit the highway must drive between vehicles that are accelerating to enter the highway"
+      },
+      {
+        "label": "b",
+        "text": "An area on the highway that is used for emergency parking"
+      },
+      {
+        "label": "c",
+        "text": "A place where the highway has a series of curves that require the driver to slow down"
+      },
+      {
+        "label": "d",
+        "text": "A limited access area on a highway where a driver can legally back their vehicle when they miss their exit"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 35,
+    "question": "A road test will be refused by a driver examiner if:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The vehicle has a seating capacity greater than 7"
+      },
+      {
+        "label": "b",
+        "text": "The vehicle is registered as a farm vehicle"
+      },
+      {
+        "label": "c",
+        "text": "The vehicle is a rental vehicle"
+      },
+      {
+        "label": "d",
+        "text": "The vehicle is not mechanically safe"
+      }
+    ],
+    "answer": "d",
+    "figure": ""
+  },
+  {
+    "number": 36,
+    "question": "Is a driver allowed to exceed the speed limit when passing another vehicle?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Only when passing more than one vehicle at a time"
+      },
+      {
+        "label": "b",
+        "text": "Yes, but not more than 10 km/h over the speed limit"
+      },
+      {
+        "label": "c",
+        "text": "Yes, on primary highways only"
+      },
+      {
+        "label": "d",
+        "text": "No, it is never permitted"
+      }
+    ],
+    "answer": "d",
+    "figure": ""
+  },
+  {
+    "number": 37,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Children playing in residential area"
+      },
+      {
+        "label": "b",
+        "text": "Pedestrian crosswalk ahead"
+      },
+      {
+        "label": "c",
+        "text": "School area"
+      },
+      {
+        "label": "d",
+        "text": "Playground zone"
+      }
+    ],
+    "answer": "c",
+    "figure": "figures/q037.png"
+  },
+  {
+    "number": 38,
+    "question": "The speed limit in a construction zone must be obeyed:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Only during daylight hours"
+      },
+      {
+        "label": "b",
+        "text": "Only when a flag person is posted nearby"
+      },
+      {
+        "label": "c",
+        "text": "At all times"
+      },
+      {
+        "label": "d",
+        "text": "Only when construction workers are present"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 39,
+    "question": "In a vehicle that does not have anti-lock brakes, threshold braking refers to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Applying an even braking force to the point just before the wheels lock, and easing off slightly if the wheels lock"
+      },
+      {
+        "label": "b",
+        "text": "Pumping the brake pedal repeatedly until the vehicle comes to a stop"
+      },
+      {
+        "label": "c",
+        "text": "Releasing pressure on the brake pedal, then reapplying pressure until the wheels lock"
+      },
+      {
+        "label": "d",
+        "text": "Applying enough force to the brake pedal to lock the wheels and keep them locked"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 40,
+    "question": "When a driver’s vehicle is approached by an emergency vehicle sounding a siren, from any direction on a two-way road, the driver must:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Continue at a reduced speed and allow sufficient space for the emergency vehicle to pass"
+      },
+      {
+        "label": "b",
+        "text": "Turn on their four-way hazard lights"
+      },
+      {
+        "label": "c",
+        "text": "Stop only when the emergency vehicle has difficulty in passing"
+      },
+      {
+        "label": "d",
+        "text": "Drive as close as possible to the right curb or edge of the road and stop"
+      }
+    ],
+    "answer": "d",
+    "figure": ""
+  },
+  {
+    "number": 41,
+    "question": "The recommended braking procedure to bring a vehicle to a normal, smooth stop is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Continually increase brake pressure until the wheels lock"
+      },
+      {
+        "label": "b",
+        "text": "Shift the vehicle into neutral and apply steady pressure to the brake pedal until the vehicle comes to a stop"
+      },
+      {
+        "label": "c",
+        "text": "Pump the brake pedal smoothly until the vehicle stops"
+      },
+      {
+        "label": "d",
+        "text": "Apply brake pressure, ease off slightly just before the vehicle stops, then re-apply sufficient pressure to stop"
+      }
+    ],
+    "answer": "d",
+    "figure": ""
+  },
+  {
+    "number": 42,
+    "question": "In Alberta, the law requires that seat belts must be worn:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Only while carrying passengers"
+      },
+      {
+        "label": "b",
+        "text": "Properly at all times"
+      },
+      {
+        "label": "c",
+        "text": "Only when driving at highway speeds"
+      },
+      {
+        "label": "d",
+        "text": "Only when driving in the city"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 43,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Heavy trucks only"
+      },
+      {
+        "label": "b",
+        "text": "Do not pass"
+      },
+      {
+        "label": "c",
+        "text": "No vehicles allowed"
+      },
+      {
+        "label": "d",
+        "text": "Do not enter"
+      }
+    ],
+    "answer": "b",
+    "figure": "figures/q043.png"
+  },
+  {
+    "number": 44,
+    "question": "A driver entering a traffic circle:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Must yield to traffic on the right"
+      },
+      {
+        "label": "b",
+        "text": "Must yield to vehicles in the traffic circle"
+      },
+      {
+        "label": "c",
+        "text": "Has the right-of-way"
+      },
+      {
+        "label": "d",
+        "text": "Must use the courtesy rule and yield to the vehicle that arrived first"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 45,
+    "question": "A deceleration lane is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A lane where vehicles reduce speed when exiting a highway"
+      },
+      {
+        "label": "b",
+        "text": "The right lane of a four-lane highway for use by slower moving vehicles"
+      },
+      {
+        "label": "c",
+        "text": "The lane immediately to the right of a solid yellow line on a highway"
+      },
+      {
+        "label": "d",
+        "text": "A lane on hills for use by slower moving vehicles"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 46,
+    "question": "When turning left from a two-way road onto a one-way road, what lane should the vehicle enter?",
+    "options": [
+      {
+        "label": "a",
+        "text": "The lane immediately to the right of centre"
+      },
+      {
+        "label": "b",
+        "text": "The lane nearest the curb on the left side of the one-way road"
+      },
+      {
+        "label": "c",
+        "text": "The centre lane of the one-way road"
+      },
+      {
+        "label": "d",
+        "text": "The right lane of the one-way road"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 47,
+    "question": "When two vehicles approach an uncontrolled “T” intersection at right angles to each other at approximately the same time:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The vehicle on the left must yield the right-of-way"
+      },
+      {
+        "label": "b",
+        "text": "The vehicle on the left has the right-of-way"
+      },
+      {
+        "label": "c",
+        "text": "The vehicle going straight through always has the right-of-way"
+      },
+      {
+        "label": "d",
+        "text": "Both vehicles must stop"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 48,
+    "question": "Unless otherwise permitted, what lane must a driver be in to turn left from a one-way road?",
+    "options": [
+      {
+        "label": "a",
+        "text": "The lane to the right of centre"
+      },
+      {
+        "label": "b",
+        "text": "The left lane nearest the left curb"
+      },
+      {
+        "label": "c",
+        "text": "The lane closes to the right curb"
+      },
+      {
+        "label": "d",
+        "text": "The centre lane"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 49,
+    "question": "Which statement describes the steps required to reverse in a straight line?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Keep both hands on the steering wheel and constantly use the inside rear-view mirror for guidance"
+      },
+      {
+        "label": "b",
+        "text": "Place the right hand at the top of the steering wheel, look over the left shoulder and use the outside left rear-view mirror"
+      },
+      {
+        "label": "c",
+        "text": "Place the left hand at the top of the steering wheel and look over the right shoulder through the rear window"
+      },
+      {
+        "label": "d",
+        "text": "Place the left hand at the bottom of the steering wheel and use both outside mirrors"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 50,
+    "question": "An acceleration lane is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A lane with broken line markings"
+      },
+      {
+        "label": "b",
+        "text": "A lane on hills, designated for faster moving vehicles"
+      },
+      {
+        "label": "c",
+        "text": "The left lane of a four-lane highway, for use when passing slow moving vehicles"
+      },
+      {
+        "label": "d",
+        "text": "A lane in a merge area for use by vehicles entering the highway"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 51,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Lane ends, loss of right lane"
+      },
+      {
+        "label": "b",
+        "text": "Added lane (free flow)"
+      },
+      {
+        "label": "c",
+        "text": "Curve right"
+      },
+      {
+        "label": "d",
+        "text": "Dual turn lane ahead"
+      }
+    ],
+    "answer": "a",
+    "figure": "figures/q051.png"
+  },
+  {
+    "number": 52,
+    "question": "Under the Graduated Driver Licensing program, a learner with a Class 7 licence is not permitted to drive a vehicle between the hours of:",
+    "options": [
+      {
+        "label": "a",
+        "text": "9:00 A.M. and 5:00 P.M."
+      },
+      {
+        "label": "b",
+        "text": "Midnight and 5:00 A.M."
+      },
+      {
+        "label": "c",
+        "text": "10:00 P.M. and 6:00 A.M."
+      },
+      {
+        "label": "d",
+        "text": "Midnight and 7:00 A.M."
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 53,
+    "question": "What does a flashing yellow traffic light mean?",
+    "options": [
+      {
+        "label": "a",
+        "text": "The traffic light will turn green"
+      },
+      {
+        "label": "b",
+        "text": "Stop until the light stops flashing"
+      },
+      {
+        "label": "c",
+        "text": "The traffic light will turn red"
+      },
+      {
+        "label": "d",
+        "text": "Proceed with caution"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 54,
+    "question": "Unless otherwise posted, the school zone speed limits are in effect on school days during the following hours:",
+    "options": [
+      {
+        "label": "a",
+        "text": "8:30 A.M. to 1 hour after sunset"
+      },
+      {
+        "label": "b",
+        "text": "8:00 A.M. to 9:30 A.M., 11:30 A.M. to 1:30 P.M. and 3:00 P.M. to 4:30 P.M."
+      },
+      {
+        "label": "c",
+        "text": "8:30 A.M. to 9:30 A.M., 12:00 P.M. to 1:00 P.M. and 3:30 P.M. to 4:00 P.M."
+      },
+      {
+        "label": "d",
+        "text": "8:00 A.M. to 4:30 P.M."
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 55,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Playground zone"
+      },
+      {
+        "label": "b",
+        "text": "Pedestrian crosswalk"
+      },
+      {
+        "label": "c",
+        "text": "Designated school bus stop"
+      },
+      {
+        "label": "d",
+        "text": "School zone"
+      }
+    ],
+    "answer": "b",
+    "figure": "figures/q055.png"
+  },
+  {
+    "number": 56,
+    "question": "When driving in the right lane on a highway, what should a driver do if another vehicle attempts to merge from an acceleration lane on the right?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Stop to allow the other vehicle in"
+      },
+      {
+        "label": "b",
+        "text": "Accelerate to close any gap in the traffic flow"
+      },
+      {
+        "label": "c",
+        "text": "Move into the left lane if it is safe to do so, or be prepared to adjust speed"
+      },
+      {
+        "label": "d",
+        "text": "Insist that the other vehicle yield the right-of-way"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 57,
+    "question": "Which direction should a vehicle’s front wheels be turned when parked uphill on a two-way road with a curb?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Parallel to the curb"
+      },
+      {
+        "label": "b",
+        "text": "To the left"
+      },
+      {
+        "label": "c",
+        "text": "To the right"
+      },
+      {
+        "label": "d",
+        "text": "Straight ahead"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 58,
+    "question": "When approaching the rear of a stopped school bus that has its alternately flashing red lights activated, a driver must:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Sound the horn to alert any pedestrians and pass at a slow rate of speed"
+      },
+      {
+        "label": "b",
+        "text": "Stop behind the bus and wait until the alternating red lights stop flashing"
+      },
+      {
+        "label": "c",
+        "text": "Move to the left lane, reduce speed to 30 km/h and pass cautiously"
+      },
+      {
+        "label": "d",
+        "text": "Stop behind the bus, look carefully for pedestrians and, if clear, drive past the bus slowly"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 59,
+    "question": "When travelling in urban areas, drivers should scan the road approximately:",
+    "options": [
+      {
+        "label": "a",
+        "text": "25 to 30 seconds ahead"
+      },
+      {
+        "label": "b",
+        "text": "12 to 15 seconds ahead"
+      },
+      {
+        "label": "c",
+        "text": "20 to 30 seconds ahead"
+      },
+      {
+        "label": "d",
+        "text": "1 to 6 seconds ahead"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 60,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "T intersection"
+      },
+      {
+        "label": "b",
+        "text": "Traffic lane ends"
+      },
+      {
+        "label": "c",
+        "text": "Concealed intersection"
+      },
+      {
+        "label": "d",
+        "text": "Trucks entering highway ahead"
+      }
+    ],
+    "answer": "a",
+    "figure": "figures/q060.png"
+  },
+  {
+    "number": 61,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Winding road ahead"
+      },
+      {
+        "label": "b",
+        "text": "Weave zone ahead"
+      },
+      {
+        "label": "c",
+        "text": "Slippery when wet"
+      },
+      {
+        "label": "d",
+        "text": "Lane changing permitted"
+      }
+    ],
+    "answer": "a",
+    "figure": "figures/q061.png"
+  },
+  {
+    "number": 62,
+    "question": "Before leaving a parallel parking space on the right side of a road:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Turn on the right signal"
+      },
+      {
+        "label": "b",
+        "text": "Shoulder check to the left"
+      },
+      {
+        "label": "c",
+        "text": "Shoulder check to the right"
+      },
+      {
+        "label": "d",
+        "text": "Use an arm signal straight out and up"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 63,
+    "question": "When approaching the top of a hill on a two-lane highway:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Exceeding the speed limit is permitted"
+      },
+      {
+        "label": "b",
+        "text": "Flash the headlights to warn oncoming vehicles"
+      },
+      {
+        "label": "c",
+        "text": "Stay to the right portion of the lane"
+      },
+      {
+        "label": "d",
+        "text": "Keep close to the centre line to prevent others from passing"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 64,
+    "question": "Playground zones are in effect:",
+    "options": [
+      {
+        "label": "a",
+        "text": "From 8:30 A.M. to 1 hour after sunset"
+      },
+      {
+        "label": "b",
+        "text": "From 8:00 A.M. to 8:00 P.M."
+      },
+      {
+        "label": "c",
+        "text": "During daylight hours and until 11:00 P.M."
+      },
+      {
+        "label": "d",
+        "text": "Only when school lets out at noon and after 4:30 P.M."
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 65,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "“T” intersection"
+      },
+      {
+        "label": "b",
+        "text": "Winding road ahead"
+      },
+      {
+        "label": "c",
+        "text": "Merging traffic"
+      },
+      {
+        "label": "d",
+        "text": "Road narrows to the right"
+      }
+    ],
+    "answer": "c",
+    "figure": "figures/q065.png"
+  },
+  {
+    "number": 66,
+    "question": "According to the Basic Licence Driver’s Handbook, most skids are the result of:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Bad brakes"
+      },
+      {
+        "label": "b",
+        "text": "Icy roads"
+      },
+      {
+        "label": "c",
+        "text": "Bad tires"
+      },
+      {
+        "label": "d",
+        "text": "Driver error"
+      }
+    ],
+    "answer": "d",
+    "figure": ""
+  },
+  {
+    "number": 67,
+    "question": "How close can a driver legally park a vehicle to a Stop sign?",
+    "options": [
+      {
+        "label": "a",
+        "text": "10 metres"
+      },
+      {
+        "label": "b",
+        "text": "5 metres"
+      },
+      {
+        "label": "c",
+        "text": "3 metres"
+      },
+      {
+        "label": "d",
+        "text": "1.5 metres"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 68,
+    "question": "Parking in a space reserved for persons with disabilities is permitted:",
+    "options": [
+      {
+        "label": "a",
+        "text": "When all other parking spaces are filled"
+      },
+      {
+        "label": "b",
+        "text": "While the driver is waiting in the vehicle"
+      },
+      {
+        "label": "c",
+        "text": "When a driver stops for less than 5 minutes"
+      },
+      {
+        "label": "d",
+        "text": "When the vehicle has a proper identifying placard or licence plate"
+      }
+    ],
+    "answer": "d",
+    "figure": ""
+  },
+  {
+    "number": 69,
+    "question": "At what minimum distance must headlights be dimmed at night when approaching another vehicle from behind?",
+    "options": [
+      {
+        "label": "a",
+        "text": "60 metres"
+      },
+      {
+        "label": "b",
+        "text": "300 metres"
+      },
+      {
+        "label": "c",
+        "text": "150 metres"
+      },
+      {
+        "label": "d",
+        "text": "100 metres"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 70,
+    "question": "When are dual turns permitted at an intersection?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Only when turning from a one-way road onto a one-way road"
+      },
+      {
+        "label": "b",
+        "text": "Only when indicated by pavement markings or traffic control signs"
+      },
+      {
+        "label": "c",
+        "text": "Any time there are at least 2 lanes on the road being entered"
+      },
+      {
+        "label": "d",
+        "text": "Only when the road has 6 or more lanes"
+      }
+    ],
+    "answer": "b",
+    "figure": "figures/q070.png"
+  },
+  {
+    "number": 71,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Through lane only"
+      },
+      {
+        "label": "b",
+        "text": "Passing permitted"
+      },
+      {
+        "label": "c",
+        "text": "No turns permitted"
+      },
+      {
+        "label": "d",
+        "text": "Two-way traffic"
+      }
+    ],
+    "answer": "d",
+    "figure": "figures/q071.png"
+  },
+  {
+    "number": 72,
+    "question": "Under the Graduated Driver Licensing program, a learner with a Class 7 operator’s license is suspended when they accumulate:",
+    "options": [
+      {
+        "label": "a",
+        "text": "15 demerits"
+      },
+      {
+        "label": "b",
+        "text": "12 demerits"
+      },
+      {
+        "label": "c",
+        "text": "8 demerits"
+      },
+      {
+        "label": "d",
+        "text": "7 demerits"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 73,
+    "question": "Speed limit signs indicate:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The speed you should travel under all driving conditions"
+      },
+      {
+        "label": "b",
+        "text": "The minimum speed permitted on all highways"
+      },
+      {
+        "label": "c",
+        "text": "The maximum speed permitted when conditions are favourable"
+      },
+      {
+        "label": "d",
+        "text": "The maximum speed permitted except when passing"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 74,
+    "question": "An “uncontrolled intersection”:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Has a flashing yellow light for one direction of traffic and a flashing red light for the other direction of traffic"
+      },
+      {
+        "label": "b",
+        "text": "Has traffic signs but no traffic control signal lights"
+      },
+      {
+        "label": "c",
+        "text": "Has no traffic control signal lights or traffic signs"
+      },
+      {
+        "label": "d",
+        "text": "Has Yield signs but no Stop signs"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 75,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Sharp left curve in the road ahead"
+      },
+      {
+        "label": "b",
+        "text": "Left turns are prohibited"
+      },
+      {
+        "label": "c",
+        "text": "Vehicles may turn left or go straight"
+      },
+      {
+        "label": "d",
+        "text": "Double lane left turn"
+      }
+    ],
+    "answer": "d",
+    "figure": "figures/q075.png"
+  },
+  {
+    "number": 76,
+    "question": "When facing a Merge sign a driver should:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Stop at the entrance to the other highway and wait until a gap in traffic occurs before proceeding"
+      },
+      {
+        "label": "b",
+        "text": "Watch for a gap in traffic on the highway they are entering, adjust to highway speed in the acceleration lane and blend in smoothly"
+      },
+      {
+        "label": "c",
+        "text": "Stop and yield the right-of-way to traffic already on the highway"
+      },
+      {
+        "label": "d",
+        "text": "Reduce speed and proceed with caution"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 77,
+    "question": "In reduced visibility due to fog, smoke or snow, use the:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Park lights"
+      },
+      {
+        "label": "b",
+        "text": "Headlights on high beam"
+      },
+      {
+        "label": "c",
+        "text": "Headlights on low beam"
+      },
+      {
+        "label": "d",
+        "text": "Daytime running lights"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 78,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Emergency vehicles entering roadway"
+      },
+      {
+        "label": "b",
+        "text": "The designated lane is closed"
+      },
+      {
+        "label": "c",
+        "text": "Railway crossing"
+      },
+      {
+        "label": "d",
+        "text": "Do not enter"
+      }
+    ],
+    "answer": "c",
+    "figure": "figures/q078.png"
+  },
+  {
+    "number": 79,
+    "question": "Is a driver allowed to turn right at a red traffic control light?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Yes, but only when a sign permits such a turn"
+      },
+      {
+        "label": "b",
+        "text": "Yes, if the driver reduces speed and there is no traffic or pedestrian in the intersection, and no sign that prohibits such a turn"
+      },
+      {
+        "label": "c",
+        "text": "Yes, if the driver stops and there is no traffic, pedestrian or sign that prohibits such a turn"
+      },
+      {
+        "label": "d",
+        "text": "No, right turns on a red traffic light are never permitted"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 80,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Lane is reserved for use by the specified vehicles"
+      },
+      {
+        "label": "b",
+        "text": "One-way traffic only"
+      },
+      {
+        "label": "c",
+        "text": "Car pool vehicles only"
+      },
+      {
+        "label": "d",
+        "text": "Lane can be used for dangerous goods vehicles"
+      }
+    ],
+    "answer": "a",
+    "figure": "figures/q080.png"
+  },
+  {
+    "number": 81,
+    "question": "When a vehicle is stopped to allow a pedestrian to cross the road, other vehicles that are approaching from the rear:",
+    "options": [
+      {
+        "label": "a",
+        "text": "May pass the stopped vehicle if there is no oncoming traffic that may impede passing safely"
+      },
+      {
+        "label": "b",
+        "text": "Must not pass the stopped vehicle. It is illegal"
+      },
+      {
+        "label": "c",
+        "text": "May pass the stopped vehicle when eye contact is made with the pedestrian and the pedestrian stops"
+      },
+      {
+        "label": "d",
+        "text": "May pass the stopped vehicle when the pedestrian crossing signal has changed to “Don’t Walk”"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 82,
+    "question": "When a head restraint is raised to the proper position, the centre of the head restraint is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Level with the top of the ears"
+      },
+      {
+        "label": "b",
+        "text": "Level with the top of the shoulders"
+      },
+      {
+        "label": "c",
+        "text": "Level with the neck"
+      },
+      {
+        "label": "d",
+        "text": "Level with the top of the head"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 83,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "School zone ahead"
+      },
+      {
+        "label": "b",
+        "text": "Caution log trucks turning"
+      },
+      {
+        "label": "c",
+        "text": "Traffic control signal advance warning"
+      },
+      {
+        "label": "d",
+        "text": "Pedestrian crosswalk ahead"
+      }
+    ],
+    "answer": "c",
+    "figure": "figures/q083.png"
+  },
+  {
+    "number": 84,
+    "question": "When a “PASSING LANE AHEAD” sign is posted, the driver of a slower moving vehicle should:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Use the right lane and reduce their speed to half the posted speed limit"
+      },
+      {
+        "label": "b",
+        "text": "Use the left lane only"
+      },
+      {
+        "label": "c",
+        "text": "Increase speed"
+      },
+      {
+        "label": "d",
+        "text": "Move into the right lane when safe"
+      }
+    ],
+    "answer": "d",
+    "figure": ""
+  },
+  {
+    "number": 85,
+    "question": "When approaching the rear of a school bus that is displaying alternating flashing amber lights, a driver should:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Be prepared to stop as this is a warning that the alternating flashing red lights will come on once the bus has stopped"
+      },
+      {
+        "label": "b",
+        "text": "Be prepared to stop as this could be a warning that there is a collision ahead and the traffic flow has stopped"
+      },
+      {
+        "label": "c",
+        "text": "Stop immediately because the school bus is loading or unloading students"
+      },
+      {
+        "label": "d",
+        "text": "Use caution as the school bus is approaching a railroad crossing and is about to stop"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 86,
+    "question": "In the Basic Licence Driver’s Handbook, “nighttime” is defined as the period of time:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Beginning 1 hour before sunset and ending 1 hour after the following sunrise"
+      },
+      {
+        "label": "b",
+        "text": "Beginning at sunset and ending at the following sunrise"
+      },
+      {
+        "label": "c",
+        "text": "Between 7:00 P.M. and 7:00 A.M."
+      },
+      {
+        "label": "d",
+        "text": "Beginning 1 hour after sunset and ending 1 hour before the following sunrise"
+      }
+    ],
+    "answer": "d",
+    "figure": ""
+  },
+  {
+    "number": 87,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "No through traffic or right turns"
+      },
+      {
+        "label": "b",
+        "text": "Turn left or go straight through"
+      },
+      {
+        "label": "c",
+        "text": "Turn from a one-way road onto a one-way road"
+      },
+      {
+        "label": "d",
+        "text": "Straight through or right turn"
+      }
+    ],
+    "answer": "d",
+    "figure": "figures/q087.png"
+  },
+  {
+    "number": 88,
+    "question": "A vehicle exiting a parking lot onto a roadway:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Must stop only if there is a Stop sign"
+      },
+      {
+        "label": "b",
+        "text": "Must come to a complete stop"
+      },
+      {
+        "label": "c",
+        "text": "Must stop before crossing the sidewalk only if there are predestrians present"
+      },
+      {
+        "label": "d",
+        "text": "Is not required to stop"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 89,
+    "question": "When approaching a railway crossing that has the flashing red light and bell activated:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Cross the tracks if the train is a minimum of 250 metres away"
+      },
+      {
+        "label": "b",
+        "text": "Reduce speed, check for trains, and then proceed across the tracks"
+      },
+      {
+        "label": "c",
+        "text": "Do not stop and do not change gears while crossing the tracks"
+      },
+      {
+        "label": "d",
+        "text": "Stop at least 5 metres from the nearest rail until the train has passed"
+      }
+    ],
+    "answer": "d",
+    "figure": ""
+  },
+  {
+    "number": 90,
+    "question": "The recommended method for travelling through a curve on a highway is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Reduce speed before the curve, stay in the lane and gently accelerate after entering the curve"
+      },
+      {
+        "label": "b",
+        "text": "Maintain speed before the curve, brake in the curve, look ahead and accelerate out of the curve"
+      },
+      {
+        "label": "c",
+        "text": "Cover the brake pedal before the curve, counter-steer toward the outside of the lane and accelerate when exiting"
+      },
+      {
+        "label": "d",
+        "text": "Accelerate before the curve, cover the brake pedal in the curve and accelerate after leaving the curve"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 91,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Yield the right-of-way to pedestrians and traffic"
+      },
+      {
+        "label": "b",
+        "text": "Dangerous goods vehicle placard: flammable gas"
+      },
+      {
+        "label": "c",
+        "text": "Slow moving vehicle"
+      },
+      {
+        "label": "d",
+        "text": "Warning, Yield sign ahead"
+      }
+    ],
+    "answer": "c",
+    "figure": "figures/q091.png"
+  },
+  {
+    "number": 92,
+    "question": "Why is it not safe to pass a loaded log-haul truck that is turning?",
+    "options": [
+      {
+        "label": "a",
+        "text": "The driver of the truck needs to fully concentrate on the turn and does not need the added responsibility of a passing vehicle"
+      },
+      {
+        "label": "b",
+        "text": "Loaded log-haul trucks obey the 6-second rule for turns"
+      },
+      {
+        "label": "c",
+        "text": "A danger zone exists as the overhang of the logs from the tail end of the truck could block all the lanes on a highway during the turn"
+      },
+      {
+        "label": "d",
+        "text": "It is illegal to do so"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 93,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Playground zone ahead"
+      },
+      {
+        "label": "b",
+        "text": "Pedestrian crossing ahead"
+      },
+      {
+        "label": "c",
+        "text": "School bus stop ahead"
+      },
+      {
+        "label": "d",
+        "text": "School zone ahead"
+      }
+    ],
+    "answer": "c",
+    "figure": "figures/q093.png"
+  },
+  {
+    "number": 94,
+    "question": "When encountering a funeral processions that is crossing an intersection:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Sound the horn before proceeding"
+      },
+      {
+        "label": "b",
+        "text": "Proceed through the funeral procession only when there is sufficient space between vehicles"
+      },
+      {
+        "label": "c",
+        "text": "Yield the right-of-way and do not break through the procession"
+      },
+      {
+        "label": "d",
+        "text": "Flash the high beam headlights before proceeding"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 95,
+    "question": "If the vehicle’s right tires travel off the paved portion of the roadway:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Apply the brakes and counter-steer to return to the paved portion of the roadway"
+      },
+      {
+        "label": "b",
+        "text": "Keep a firm grip on the steering wheel, ease off the gas pedal, and then gradually return to the paved portion of the roadway"
+      },
+      {
+        "label": "c",
+        "text": "Accelerate slightly, then turn the steering wheel sharply to return to the paved portion of the roadway"
+      },
+      {
+        "label": "d",
+        "text": "Move the vehicle completely off the paved portion, then steer back onto the paved portion of the roadway"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 96,
+    "question": "The sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A school zone"
+      },
+      {
+        "label": "b",
+        "text": "School crosswalk ahead"
+      },
+      {
+        "label": "c",
+        "text": "Playground zone"
+      },
+      {
+        "label": "d",
+        "text": "Pedestrian activated lights ahead"
+      }
+    ],
+    "answer": "b",
+    "figure": "figures/q096.png"
+  },
+  {
+    "number": 97,
+    "question": "When completing an angle park, the vehicle’s front wheel must be within what maximum distance from the nearest curb?",
+    "options": [
+      {
+        "label": "a",
+        "text": "100 cm"
+      },
+      {
+        "label": "b",
+        "text": "50 cm"
+      },
+      {
+        "label": "c",
+        "text": "25 cm"
+      },
+      {
+        "label": "d",
+        "text": "75 cm"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  },
+  {
+    "number": 98,
+    "question": "In an urban area, when a pedestrian is standing at a crosswalk with their arm raised at approximately right angles to their body and pointing to the opposite curb, what does this mean?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Drivers must stop and yield to the pedestrian"
+      },
+      {
+        "label": "b",
+        "text": "The pedestrian is visually impaired and needs assistance to cross the road"
+      },
+      {
+        "label": "c",
+        "text": "Drivers do not have to yield to the pedestrian until they step off the curb"
+      },
+      {
+        "label": "d",
+        "text": "Drivers should reduce speed to 20 km/h and be cautious when passing the pedestrian"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 99,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Pavement ends"
+      },
+      {
+        "label": "b",
+        "text": "Construction zone ahead"
+      },
+      {
+        "label": "c",
+        "text": "Dead end"
+      },
+      {
+        "label": "d",
+        "text": "Hazard marker"
+      }
+    ],
+    "answer": "c",
+    "figure": "figures/q099.png"
+  },
+  {
+    "number": 100,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Divided highway ends"
+      },
+      {
+        "label": "b",
+        "text": "Divided highway begins"
+      },
+      {
+        "label": "c",
+        "text": "Obstruction – pass on the left"
+      },
+      {
+        "label": "d",
+        "text": "Two-way traffic"
+      }
+    ],
+    "answer": "b",
+    "figure": "figures/q100.png"
+  },
+  {
+    "number": 101,
+    "question": "When approaching an intersection displaying a steady yellow traffic light:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Proceed since the light is about to turn green"
+      },
+      {
+        "label": "b",
+        "text": "Yield to vehicles on the right"
+      },
+      {
+        "label": "c",
+        "text": "Stop before the intersection unless the stop cannot be made in safety"
+      },
+      {
+        "label": "d",
+        "text": "Increase speed to clear the intersection"
+      }
+    ],
+    "answer": "c",
+    "figure": ""
+  },
+  {
+    "number": 102,
+    "question": "A solid yellow line together with a broken yellow line marked on the centre of a highway means:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The road narrows ahead"
+      },
+      {
+        "label": "b",
+        "text": "If the solid line is on your side, passing is permitted"
+      },
+      {
+        "label": "c",
+        "text": "If the broken line is on your side, passing is not permitted"
+      },
+      {
+        "label": "d",
+        "text": "If the broken line is on your side, passing is permitted"
+      }
+    ],
+    "answer": "d",
+    "figure": ""
+  },
+  {
+    "number": 103,
+    "question": "At 9:00 A.M. on a school day, what is the maximum speed permitted in a school zone in a rural area, unless otherwise posted?",
+    "options": [
+      {
+        "label": "a",
+        "text": "50 km/h"
+      },
+      {
+        "label": "b",
+        "text": "20 km/h"
+      },
+      {
+        "label": "c",
+        "text": "40 km/h"
+      },
+      {
+        "label": "d",
+        "text": "30 km/h"
+      }
+    ],
+    "answer": "d",
+    "figure": ""
+  },
+  {
+    "number": 104,
+    "question": "On a two-lane highway, when passing other vehicles travelling in the same direction, a driver:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Should pass on the left when safe"
+      },
+      {
+        "label": "b",
+        "text": "Should pass on the right when safe"
+      },
+      {
+        "label": "c",
+        "text": "Should always travel 30 km/h faster than the vehicle being passed"
+      },
+      {
+        "label": "d",
+        "text": "Should not pull out to pass until they are within 3 metres of the vehicle being passed"
+      }
+    ],
+    "answer": "a",
+    "figure": ""
+  },
+  {
+    "number": 105,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Off-road facilities"
+      },
+      {
+        "label": "b",
+        "text": "Hospital services"
+      },
+      {
+        "label": "c",
+        "text": "Hotel services"
+      },
+      {
+        "label": "d",
+        "text": "Primary highway route marker"
+      }
+    ],
+    "answer": "b",
+    "figure": "figures/q105.png"
+  },
+  {
+    "number": 106,
+    "question": "What minimum distance from a fire hydrant must a vehicle be parked?",
+    "options": [
+      {
+        "label": "a",
+        "text": "3 metres"
+      },
+      {
+        "label": "b",
+        "text": "4 metres"
+      },
+      {
+        "label": "c",
+        "text": "2 metres"
+      },
+      {
+        "label": "d",
+        "text": "5 metres"
+      }
+    ],
+    "answer": "d",
+    "figure": ""
+  },
+  {
+    "number": 107,
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Construction sign, flag person ahead"
+      },
+      {
+        "label": "b",
+        "text": "Construction sign, detour ahead"
+      },
+      {
+        "label": "c",
+        "text": "Caution, falling rock ahead"
+      },
+      {
+        "label": "d",
+        "text": "Construction sign, people working ahead"
+      }
+    ],
+    "answer": "d",
+    "figure": "figures/q107.png"
+  },
+  {
+    "number": 108,
+    "question": "If a driver is being followed by a vehicle that is attempting to pass on a two-way road, the driver should:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Stay in the lane and move to the left portion of the lane"
+      },
+      {
+        "label": "b",
+        "text": "Stay in the lane and move to the right portion of the lane"
+      },
+      {
+        "label": "c",
+        "text": "Turn on the left signal and stay in the lane"
+      },
+      {
+        "label": "d",
+        "text": "Turn on the right signal and drive in the parking lane"
+      }
+    ],
+    "answer": "b",
+    "figure": ""
+  }
+]
